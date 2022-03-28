@@ -23,7 +23,7 @@ public class Rainbow {
             case 7:
                 return Color7;
             default:
-                return "íåïîíÿòíî";
+                return "---";
         }
     }
 }
